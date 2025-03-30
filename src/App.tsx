@@ -1,7 +1,7 @@
 import './App.css'
 
 
-import PixelCat from "./components/PixelCat";
+//import PixelCat from "./components/PixelCat";
 
 function App() {
   return (
@@ -13,7 +13,12 @@ function App() {
         </header>
 
         <section className="flex flex-col items-center justify-center">
-          <PixelCat />
+          <img
+  src="/logo.png"
+  alt="WhiskersStack Logo"
+  className="w-48 h-48 mx-auto mb-6 drop-shadow-lg"
+/>
+
           <p className="mt-4 text-base max-w-md text-center">
             Built by a curious dev powered by caffeine, cat energy, and clever ideas. Blending code, creativity, and cute chaos one stack at a time.
           </p>
