@@ -1,59 +1,60 @@
-# 🐾 WhiskersStack
+# WhiskersStack
 
-_Where curiosity compiles the code... and sometimes claws the cloud._
+WhiskersStack is the professional portfolio of Dan Kovalio, focused on AWS
+cloud, AI learning, frontend development, and practical software projects.
 
-[![AWS Certified](https://img.shields.io/badge/AWS-SAA--C03-orange?logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![Made with React](https://img.shields.io/badge/React-19.x-61DAFB?logo=react&logoColor=white)](https://react.dev)
-[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4.0-blue?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-[![Hosted on Render](https://img.shields.io/badge/Hosted%20on-Render-8892BF?logo=render&logoColor=white)](https://render.com)
-[![Built with 🐱 energy](https://img.shields.io/badge/Built%20with-cat%20energy-ff69b4)](#)
+Live site: [www.whiskersstack.com](https://www.whiskersstack.com/)
 
----
+## Tech Stack
 
-Welcome to **WhiskersStack**, my cloud-savvy, frontend-fabulous portfolio that blends dev skills with AWS wizardry—plus some laser pointer distractions.
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- ESLint
 
-## 🧠 About Me
+## Local Development
 
-I'm a developer who’s:
+Install dependencies:
 
-- ☁️ Deploying like a pro with EC2, ALB, Auto Scaling, and VPCs
-- 🧶 Styling clean frontends with React + Tailwind
-- 🧰 Wrangling Docker containers like wriggly kittens
-- 🔐 Building secure infra with IAM and security groups
-- 🎓 AWS Certified (Solutions Architect Associate)
+```bash
+npm install
+```
 
-## ☁️ AWS Infrastructure Meowgic
+Start the local development server:
 
-What’s under the hood?
+```bash
+npm run dev
+```
 
-- 🧱 VPC with public/private subnets (no open litterboxes)
-- 🔒 Bastion access for private instances
-- 🌀 Load Balanced EC2 instances with Launch Templates
-- 🐾 Auto Scaling triggered by CloudWatch alarms
-- 📦 S3 for static assets (future phase)
-- 🔎 Monitoring with CloudWatch because cats see all
+Run lint checks:
 
-## 🚀 Deploy This Project
+```bash
+npm run lint
+```
 
-_Ready to unleash your own WhiskersStack?_
+Create a production build:
 
-**Deploy to AWS (Coming soon):**
+```bash
+npm run build
+```
 
+Preview the production build:
 
-> _(Imagine this button does something magical. Soon it will!)_
+```bash
+npm run preview
+```
 
-## 🐾 What's Next?
+## Current Status
 
-- 🧬 Backend API with Flask + MongoDB
-- 🐳 Containerization with Docker
-- 🧠 AI cat name generator (why not?)
-- 🌐 Route 53 domain setup
-- 🪪 Custom IAM roles with policies tighter than a cat curl
+The site is being refreshed as the primary WhiskersStack portfolio. The current
+cleanup phase focuses on accurate project information, accessibility,
+maintainable styling, and professional metadata before the broader portfolio
+content refresh.
 
----
+## Deployment
 
-🧶 _“Elegant code. Sharp claws.”_  
-☁️ _Built on AWS. Brushed with Tailwind._  
-😼 _100% dog-free guarantee._  
-
-&copy; 2025 WhiskersStack
+The public site currently responds through Render behind Cloudflare. Deployment
+configuration is not stored in this repository, and the deployed site currently
+appears to serve a different build from this checkout. Deployment settings are
+being left unchanged during this cleanup.
