@@ -68,8 +68,9 @@ npm run preview
 ## Current Status
 
 The site is being refreshed as the primary WhiskersStack portfolio. The current
-homepage uses a dark-mode portfolio layout with about, skills, featured project,
-and minimal contact sections. Additional public contact links are not listed yet.
+homepage uses a dark-mode developer dossier layout with a stack map,
+current-focus strip, featured project case-study tile, and minimal contact
+section. Additional public contact links are not listed yet.
 
 ## Deployment
 
