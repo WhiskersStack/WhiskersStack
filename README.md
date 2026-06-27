@@ -1,7 +1,7 @@
 # WhiskersStack
 
-WhiskersStack is the professional portfolio of Dan Kovalio, focused on AWS
-cloud, AI learning, frontend development, and practical software projects.
+WhiskersStack is Dan Kovalio's professional portfolio for practical frontend
+projects, AWS cloud learning, AI exploration, and professional project polish.
 
 Live site: [www.whiskersstack.com](https://www.whiskersstack.com/)
 
@@ -12,6 +12,26 @@ Live site: [www.whiskersstack.com](https://www.whiskersstack.com/)
 - Vite
 - Tailwind CSS
 - ESLint
+
+## Homepage Content
+
+The homepage is structured as a single-page portfolio with:
+
+- Hero section for the WhiskersStack brand
+- About section
+- Grouped skills section
+- Featured project: BreakSignal
+- Minimal contact section with public GitHub link
+
+## Featured Project
+
+### BreakSignal
+
+BreakSignal is a simple static web and Android app for healthy break reminders.
+
+- Live site: [www.break-signal.com](https://www.break-signal.com/)
+- GitHub: [WhiskersStack/BreakSignal](https://github.com/WhiskersStack/BreakSignal)
+- Stack: HTML, CSS, Vanilla JavaScript, Capacitor
 
 ## Local Development
 
@@ -48,13 +68,11 @@ npm run preview
 ## Current Status
 
 The site is being refreshed as the primary WhiskersStack portfolio. The current
-cleanup phase focuses on accurate project information, accessibility,
-maintainable styling, and professional metadata before the broader portfolio
-content refresh.
+homepage uses a dark-mode portfolio layout with about, skills, featured project,
+and minimal contact sections. Additional public contact links are not listed yet.
 
 ## Deployment
 
 The public site currently responds through Render behind Cloudflare. Deployment
-configuration is not stored in this repository, and the deployed site currently
-appears to serve a different build from this checkout. Deployment settings are
-being left unchanged during this cleanup.
+configuration is not stored in this repository. Deployment settings are being
+left unchanged during this refresh.

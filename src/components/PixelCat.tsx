@@ -6,7 +6,13 @@ const SPRITE_FRAMES = [
   "/sprites/tail-flick.png",
 ];
 
-export default function PixelCat() {
+type PixelCatProps = {
+  className?: string;
+};
+
+export default function PixelCat({
+  className = "h-24 w-24",
+}: PixelCatProps) {
   const [frame, setFrame] = useState(0);
 
   useEffect(() => {
@@ -45,7 +51,7 @@ export default function PixelCat() {
     <img
       src={SPRITE_FRAMES[frame]}
       alt="WhiskersStack mascot"
-      className="w-24 h-24 object-contain transition duration-200"
+      className={`${className} object-contain transition duration-200`}
     />
   );
 }
