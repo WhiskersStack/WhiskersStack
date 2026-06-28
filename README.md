@@ -1,27 +1,27 @@
 # WhiskersStack
 
-WhiskersStack is Dan Kovalio's professional portfolio for practical frontend
-projects, AWS cloud learning, AI exploration, and professional project polish.
+WhiskersStack is Dan Kovalio's professional portfolio for practical cloud,
+AI, frontend, and automation projects.
 
 Live site: [www.whiskersstack.com](https://www.whiskersstack.com/)
 
-## Tech Stack
+## Professional Focus
 
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- ESLint
+I am a banking fraud analyst transitioning into cloud, AI, and technical project
+work.
 
-## Homepage Content
+My fraud-analysis background gives me practical experience with investigation,
+risk thinking, monitoring, operational judgment, and attention to detail. I am
+applying that mindset to AWS cloud learning, frontend development, and
+AI-assisted tools.
 
-The homepage is structured as a single-page portfolio with:
+## Current Focus
 
-- Hero section for the WhiskersStack brand
-- About section
-- Grouped skills section
-- Featured project: BreakSignal
-- Minimal contact section with public GitHub link
+- AWS cloud fundamentals and deployment patterns
+- AI learning and applied AI tooling
+- Frontend development with React, TypeScript, Vite, and Tailwind CSS
+- Practical portfolio projects with clear scope, documentation, and deployment
+  readiness
 
 ## Featured Project
 
@@ -29,9 +29,29 @@ The homepage is structured as a single-page portfolio with:
 
 BreakSignal is a simple static web and Android app for healthy break reminders.
 
+Tagline: Protect your eyes, posture, and focus.
+
 - Live site: [www.break-signal.com](https://www.break-signal.com/)
 - GitHub: [WhiskersStack/BreakSignal](https://github.com/WhiskersStack/BreakSignal)
 - Stack: HTML, CSS, Vanilla JavaScript, Capacitor
+- Status: Release-candidate review and Play Store closed-testing preparation
+
+## Tech Stack
+
+- Frontend: React, TypeScript, Vite, Tailwind CSS
+- Cloud: AWS, S3, CloudFront, Route 53, IAM fundamentals
+- Scripting: Python, Bash
+- Tools: Git, GitHub, Linux, ESLint
+
+## Portfolio Site
+
+The homepage is structured as a single-page portfolio with:
+
+- Hero section for the WhiskersStack brand
+- Professional positioning section
+- Grouped skills section
+- Featured project case-study tile for BreakSignal
+- Minimal contact section with public project links
 
 ## Local Development
 
@@ -67,10 +87,9 @@ npm run preview
 
 ## Current Status
 
-The site is being refreshed as the primary WhiskersStack portfolio. The current
-homepage uses a dark-mode developer dossier layout with a stack map,
-current-focus strip, featured project case-study tile, and minimal contact
-section. Additional public contact links are not listed yet.
+Active portfolio refresh. Core homepage structure, featured project positioning,
+and public project links are being polished for recruiter and technical-reviewer
+readiness.
 
 ## Deployment
 
