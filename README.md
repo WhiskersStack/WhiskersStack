@@ -1,6 +1,6 @@
 # WhiskersStack
 
-WhiskersStack is Dan Kovalio's professional portfolio for practical cloud,
+WhiskersStack is Dan's professional portfolio for practical cloud,
 AI, frontend, and automation projects.
 
 Live site: [www.whiskersstack.com](https://www.whiskersstack.com/)
